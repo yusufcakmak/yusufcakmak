@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufcakmak&count_private=true)
+
+
 <!--
 **yusufcakmak/yusufcakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
